@@ -1,0 +1,8 @@
+# virtual environment folder
+venv/
+# django sample database
+myproject/db.sqlite3
+# Python cache folder
+myproject/myproject/__pycache__
+# git folder
+.git
