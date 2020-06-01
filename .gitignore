@@ -4,5 +4,8 @@ venv/
 myproject/db.sqlite3
 # Python cache folder
 myproject/myproject/__pycache__
+myproject/boards/__pycache__/
+myproject/boards/migrations/__pycache__/
+
 # git folder
 .git
