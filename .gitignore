@@ -9,3 +9,9 @@ myproject/boards/migrations/__pycache__/
 
 # git folder
 .git
+
+# Django migration files
+myproject/boards/migrations/0001_initial.py
+
+# static css file: bootstrap
+myproject/static/css/bootstrap.min.css
